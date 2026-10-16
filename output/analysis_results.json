@@ -1,0 +1,29 @@
+{
+    "review_quarter": "2026-Q2",
+    "overall_performance": {
+        "total_revenue_usd_m": 1280.0,
+        "previous_revenue_usd_m": 1225.0,
+        "qoq_revenue_growth_pct": 4.49
+    },
+    "regional_performance": {
+        "best_growth_region": "APAC",
+        "best_growth_pct": 8.2,
+        "weakest_growth_region": "Latin America",
+        "weakest_growth_pct": -6.67
+    },
+    "customer_experience": {
+        "average_nps": 49.75,
+        "highest_nps_region": "APAC",
+        "highest_nps": 62,
+        "lowest_nps_region": "Latin America",
+        "lowest_nps": 29
+    },
+    "operational_risk": {
+        "highest_stockout_region": "Latin America",
+        "highest_stockout_pct": 12.5,
+        "highest_capacity_region": "APAC",
+        "highest_capacity_pct": 92.0,
+        "highest_fraud_region": "Latin America",
+        "highest_fraud_incidents": 30
+    }
+}

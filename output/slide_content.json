@@ -1,0 +1,52 @@
+{
+    "slide_1": {
+        "title": "NovaRetail Performance Review",
+        "review_period": "2026-Q2",
+        "kpi_1": {
+            "value": "1,280M USD",
+            "label": "Total Revenue"
+        },
+        "kpi_2": {
+            "value": "4.5%",
+            "label": "QoQ Revenue Growth"
+        },
+        "kpi_3": {
+            "value": "50",
+            "label": "Average NPS"
+        },
+        "executive_summary": "Revenue growth is positive, driven by strong performance in APAC. Customer satisfaction is stable overall, but regional disparities persist. Latin America shows significant operational challenges including stockouts and fraud."
+    },
+    "slide_2": {
+        "headline": "Regional Performance Highlights",
+        "insights": [
+            "APAC leads with 8.2% QoQ revenue growth.",
+            "Latin America experienced a decline of -6.7% QoQ.",
+            "Regional performance varies significantly, requiring targeted strategies."
+        ]
+    },
+    "slide_3": {
+        "headline": "Customer Experience Insights",
+        "insights": [
+            "Overall NPS is 49.75, indicating steady customer loyalty.",
+            "APAC region boasts the highest NPS at 62.",
+            "Latin America's NPS is notably low at 29, aligning with other regional challenges."
+        ]
+    },
+    "slide_4": {
+        "headline": "Operational Risk Assessment",
+        "insights": [
+            "Latin America faces the highest stockout rate at 12.5%.",
+            "Latin America also reports the highest number of fraud incidents (30).",
+            "APAC operates at high capacity (92.0%), nearing saturation."
+        ]
+    },
+    "slide_5": {
+        "headline": "Strategic Recommendations",
+        "actions": [
+            "Address Latin America's operational issues: reduce stockouts and combat fraud.",
+            "Investigate and mitigate the low NPS in Latin America.",
+            "Monitor APAC's high capacity utilization to prevent future stockouts."
+        ],
+        "forward_looking_statement": "Focusing on these key areas will drive sustained growth and improve overall business health."
+    }
+}

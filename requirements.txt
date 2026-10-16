@@ -1,0 +1,8 @@
+google-adk
+google-genai
+pandas
+openpyxl
+matplotlib
+python-pptx
+Pillow
+python-dotenv
